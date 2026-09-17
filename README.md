@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-python main.py --n_stars 1000 --field 50 --seed 42
+python main.py --n_stars 1000 --field 50 --seed 4
 ```
 
 **Arguments**
